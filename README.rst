@@ -472,3 +472,4 @@ Originally created with the support of `edX
 .. |build-status| image:: https://github.com/bachmann1234/diff_cover/actions/workflows/verify.yaml/badge.svg?branch=main
     :target: https://github.com/Bachmann1234/diff_cover/actions/workflows/verify.yaml
     :alt: Build Status
+test
